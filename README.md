@@ -67,7 +67,7 @@ This dashboard is designed for business insights, portfolio presentation, and da
 
 6. How to Use the Dashboard
 
-    Download Superstore_Dashboard.xlsx
+    Download SuperstoreProjetDash
     Open in Excel (recommended Excel 2016 or later)
     Use slicers to filter:
     Category
