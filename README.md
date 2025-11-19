@@ -86,9 +86,9 @@ This dashboard is designed for business insights, portfolio presentation, and da
 
 8. Author
 
-   Rahma Touaibi
-   Junior Data Analyst
-   Tunisia
+   Rahma Touaibi ,
+   Junior Data Analyst ,
+   Tunisia ,
    touaibir52@gmail.com
 
 
