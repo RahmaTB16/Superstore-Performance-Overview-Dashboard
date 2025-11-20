@@ -43,7 +43,7 @@ This dashboard is designed for business insights, portfolio presentation, and da
 | **SuperstoreProjetDash.xlsx**      | Full interactive Excel dashboard with slicers, KPIs, and charts. |
 | **SuperstoreDataset.xlsx**         | Cleaned dataset used to build the dashboard.                     |
 | **README.md**                      | Project documentation and explanation.                           |
-| **/screenshots/**                  | Contains images of the dashboard sections.                       |
+| **/Graphs/**                  | Contains images of the dashboard sections.                       |
                                      
 
 4. Dashboard Insights (Summary of Findings)
